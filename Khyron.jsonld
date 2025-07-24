@@ -59,14 +59,5 @@
     }
   },
   "authors": [],
-  "hashAlgorithm": "blake2b-256",
-  "body": {
-    "doNotList": true,
-    "givenName": "Khyron",
-    "image": {
-      "@type": "ImageObject",
-      "contentUrl": "",
-      "sha256": "f55c7becdcf2e5f9ba2cf7b5217a0b2b8968ad95eb2ccaa6399a6de521b8c346"
-    }
-  }
+  "hashAlgorithm": "blake2b-256"
 }
